@@ -1,5 +1,3 @@
-Of course. Here is a README file suitable for a GitHub repository, incorporating the new information and explaining the scope of the documentation.
-
 # Unofficial Webull Script Editor Documentation
 
 Welcome to the definitive guide for the Webull Script Editor. This repository provides a comprehensive, in-depth manual for developers, traders, and analysts looking to build custom technical indicators on the Webull platform.
